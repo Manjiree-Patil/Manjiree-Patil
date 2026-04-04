@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Manjiree-Patil
-- This is my new Github account.The old one got into some problem.
+- This is my new Github account.
 - I will be adding more projects into this in coming days
-- I am a Computer Engineer working as a Gen AI Prompt Engineer 
+- I am a Gen AI Prompt Engineer 
   
 
 
